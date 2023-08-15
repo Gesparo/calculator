@@ -1,0 +1,20 @@
+{
+    "name": "gesparo/calculator",
+    "description": "This is the test package for hw4",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Gesparo\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maxim Melnik",
+            "email": "gesparo1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
