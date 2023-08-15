@@ -20,4 +20,6 @@ Then you can make simple arithmetic operations:
 ```php
 $calc->add(1, 2); // 3
 $calc->subtract(1, 2); // -1
+$calc->multiply(1, 2); // 2
+$calc->divide(1, 2); // 0.5
 ```
